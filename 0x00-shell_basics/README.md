@@ -18,4 +18,6 @@
 
 **8-firstdelete:** Delete betty
 
+**9-firstdirdeletion:** Delet my_first_directory
+
 
