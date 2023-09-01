@@ -10,4 +10,6 @@
 
 **4-listmorefiles:** Display current directory contents, including hidden files 
 
+**5-listfilesdigitonly:** Display current directory contents (more details)
+
 
