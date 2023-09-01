@@ -5,4 +5,5 @@
 **2-groups:** Prints all the groups the current user is part of
 **3-new_owner:** Changes the owner of the file hello to the user  betty
 **4-empty:** Creates empty file named hello
+**5-execute** Add execute permission to the owner of file hello
 
