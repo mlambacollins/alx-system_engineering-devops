@@ -18,4 +18,6 @@
 
 **8-cwd_state:** Write into a file the result of a command 
 
+**9-duplicate_last_line:** Duplicates the last line of the file iacta
+
 
