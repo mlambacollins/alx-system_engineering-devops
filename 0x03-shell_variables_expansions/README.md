@@ -32,4 +32,6 @@
 
 **101-rot13:** Encodes and decodes text using the rot13 encryption. Assume ASCII
 
+**102-odd:** Prints every other line from the input, starting with the first line
+
 
