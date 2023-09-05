@@ -28,4 +28,6 @@
 
 **13-unique:** Prints only words that appear exactly once from a list of words
 
+**14-findthatword:** Display lines containing the pattern “root” from the file /etc/passwd
+
 
