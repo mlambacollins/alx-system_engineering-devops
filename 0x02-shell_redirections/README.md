@@ -16,4 +16,6 @@
 
 **7-file:** Creates a file named '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
 
+**8-cwd_state:** Write into a file the result of a command 
+
 
